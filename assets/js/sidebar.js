@@ -38,7 +38,7 @@ export function sidebar() {
                 Copyright 2023
                 <a href="https://github.com/Raunak-Kumar7">Raunak Kumar</a>
                 <img
-                    src="./assets/images/tmdb-logo.svg"
+                    src="./assets/images/tmdb-logo.png"
                     width="130"
                     height="17"
                     alt="the movie database logo"
