@@ -1,27 +1,25 @@
 # Filmie
 
-![Filmie-home](https://github.com/mrchetan005/Filmie/assets/112335175/57518f44-f50f-44cc-a488-d1e0e97849eb)
-
 
 ## About this Repo
 
 This project is a simple Vanilla JS project that demonstrates the following:
 
-1. Responsive web app leveraging Postman and the TMDB API for seamless data retrieval and comprehensive movie details.
+1. Responsive web app leveraging the TMDB API for seamless data retrieval and comprehensive movie details.
 2. Implemented an intuitive search feature enabling users to easily find movies, providing essential information like cast, synopsis, and ratings, enhancing the user experience.
 3. Created a genre-based movie recommendation system within the app, allowing users to explore and discover movies based on their preferred genres, delivering personalized movie suggestions.
 
 ## Demo Images
 
-![Filmie-genre](https://github.com/mrchetan005/Filmie/assets/112335175/d930cf46-f7fc-42f3-9227-c567eefa6e03)
+![Movie-Details](https://github.com/Raunak-Kumar7/Filmie/blob/master/assets/demo1.png)
 
-![image](https://github.com/mrchetan005/Filmie/assets/112335175/931af4a3-49fd-4303-bc5a-fcb46021eb3b)
+![image](https://github.com/Raunak-Kumar7/Filmie/blob/master/assets/demo2.png)
 
-![image](https://github.com/mrchetan005/Filmie/assets/112335175/1be4c536-1ba5-4fff-8222-2cdf0ff95159)
+![image](https://github.com/Raunak-Kumar7/Filmie/blob/master/assets/demo3.png)
 
 ## Live Application URL
 
-You can access the live application at: [https://mrchetan005.github.io/Filmie/](https://mrchetan005.github.io/Filmie/)
+You can access the live application at: [https://raunak-kumar7.github.io/Filmie/](https://raunak-kumar7.github.io/Filmie/)
 
 ## Contributing
 
